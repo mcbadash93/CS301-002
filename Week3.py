@@ -105,5 +105,3 @@ def element_in_dict(n, x):
         end_time = time.time()
         total_time = end_time - start_time
         return total_time
-    
-print(delete_beginning_list(10000))
